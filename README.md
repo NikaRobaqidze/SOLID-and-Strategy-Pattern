@@ -1,7 +1,7 @@
 # SOLID and Strategy Pattern
 SOLID and Strategy patterns on java in MMORPG game example.
 
-Use in IntelJ IDEA Community Edition
+Using: IntelJ IDEA Community Edition
 
 ## Description
 A game developer in the MMORPG category wants to rewrite his game from assembly instructions to OOP language.
