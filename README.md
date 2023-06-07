@@ -1,5 +1,6 @@
 # SOLID and Strategy Pattern
 SOLID and Strategy patterns on java in MMORPG game example.
+
 Use in IntelJ IDEA Community Edition
 
 ## Description
