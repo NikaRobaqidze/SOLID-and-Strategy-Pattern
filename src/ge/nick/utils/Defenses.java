@@ -1,6 +1,6 @@
 package ge.nick.utils;
 
-/*
+/**
 * Enum of defenses. List of all defenses in game.
 * Defense % is initialized enum by hand.
 */

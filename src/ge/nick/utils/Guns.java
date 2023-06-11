@@ -1,6 +1,6 @@
 package ge.nick.utils;
 
-/*
+/**
  * Enum of guns. List of all guns in game.
  * Gun damage power is initialized enum by hand.
  */

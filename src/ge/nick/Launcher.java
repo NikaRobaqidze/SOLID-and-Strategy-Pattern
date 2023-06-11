@@ -1,8 +1,8 @@
-/*
-* Author: Nika Robaqidze
-* Email: nika42568@gmail.com
+/**
+* @Author: Nika Robaqidze
+* @Email: nika42568@gmail.com
 
-* Play process:
+* Play scenario:
 * Initialize two players with different values. (except heath)
 * Print each player values at every step to compare it and see changes.
 * Players attack each other. After it change guns and defense then attack again.

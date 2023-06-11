@@ -1,6 +1,6 @@
 package ge.nick.utils;
 
-/*
+/**
 * Class for user of game. Parameters for playing process.
 * It includes all functions to use opportunities of game.
 * To define all opportunities implement interfaces.

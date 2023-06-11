@@ -1,6 +1,6 @@
 package ge.nick.utils;
 
-/*
+/**
 * Interface to set functions for object that can attack.
 * Single set of attack functions for different classes.
 */
